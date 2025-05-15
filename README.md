@@ -5,6 +5,7 @@
 I'm the guy who can debug your code, predict your next move with a machine learning model, and explain how a turbocharger works — all before the coffee kicks in ☕.
 
 While some people choose one degree for fun, I said *why not two?* So now I’m decoding V8 engines by day and decoding data by night.
+
 🚗 B.Tech in Automobile Engineering @ MMMUT, Gorakhpur  
 📊 B.S. in Data Science @ IIT Madras  
 ### 🔍 What do I do?
