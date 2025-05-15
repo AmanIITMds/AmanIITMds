@@ -14,6 +14,12 @@ While some people choose one degree for fun, I said *why not two?* So now I’m 
 - I love building **cool projects** that mix logic, creativity, and a sprinkle of memes.
 - I’m on a mission to **make data talk**, and maybe crack a joke while doing it.
 
+### 🛠️ Skills I flex when no one’s watching:
+
+- **Languages:** Python, SQL, JAVA (in case the robots rebel)
+- **Tools:** Pandas, NumPy, Power BI, Tableau, Jupyter, Git, Excel (the OG data tool)
+- **Interests:** Data analysis, ML, Dashboards, Predictive modeling, and convincing Excel not to crash
+
 ### 😎 Fun Facts:
 
 - I still think “print(‘Hello World’)” is satisfying.
