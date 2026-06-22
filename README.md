@@ -1,239 +1,207 @@
-<!-- ████████████████████████████████████████████████████████████████████
-     AMAN KUMAR RAWAT — GitHub Profile README
-     Design: Terminal / Data Pipeline aesthetic
-     Unique angle: His profile reads like a live analytics session,
-     not a template portfolio.
-     ███████████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  $ whoami                                                            ║
-║  > Aman Kumar Rawat                                                  ║
-║  > Data Scientist in training · IIT Madras × MMMUT                  ║
-║  > Turning raw numbers into decisions that actually ship             ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+# Hi, I'm Aman Kumar Rawat 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=700&color=00B4D8&center=true&vCenter=true&width=700&lines=Running+demand_forecast.py+...+%E2%9C%94+18%25+accuracy+gain;Loading+nlp_pipeline.py+...+%E2%9C%94+198k+samples+processed;Deploying+quiz_master+app+...+%E2%9C%94+60%25+faster+queries;status%3A+open+to+data+%2F+ML+roles+%F0%9F%9F%A2)](https://github.com/AmanIITMds)
+### Data Analyst · Machine Learning Builder · Dual-Degree Engineering Student
 
-[![LinkedIn](https://img.shields.io/badge/-amankrrawat-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrrawat)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AmanIITMds?label=follow&style=flat-square&color=00B4D8)](https://github.com/AmanIITMds)&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=AmanIITMds&style=flat-square&color=00B4D8&label=profile+views)](https://github.com/AmanIITMds)
+*Turning messy data into decisions that actually move a business.*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
 ---
 
-## `$ cat about.json`
+## About Me
 
-```json
-{
-  "name": "Aman Kumar Rawat",
-  "location": "Gorakhpur, UP, India",
-  "education": {
-    "degree_1": "B.S. Data Science — IIT Madras (2023–2027)",
-    "degree_2": "B.Tech Mechanical Engineering — MMMUT (2023–2027)",
-    "note": "dual-degree path, by design"
-  },
-  "currently_working_on": [
-    "advanced ensemble methods & LightGBM tuning",
-    "FastAPI-powered data products",
-    "statistical experimentation & A/B testing"
-  ],
-  "looking_for": "data analyst / ML engineer internship or full-time",
-  "superpower": "I build things that create measurable business outcomes, not just notebooks"
-}
-```
+I'm pursuing two engineering degrees at once — a B.Tech in Mechanical Engineering from **Madan Mohan Malaviya University of Technology** and a B.S. in Data Science from **IIT Madras** — because I'm not interested in choosing between "knows how systems work" and "knows how to find signal in data." I want both.
+
+What I actually care about is the moment a dashboard, a model, or a pipeline changes what a business does next. During my internship at a dairy company, that meant a demand-forecasting approach getting adopted company-wide. In my coursework, it meant turning 848 raw transaction records into a capstone IIT Madras recognized with a Best Project award. The common thread: I'd rather ship something a stakeholder uses than something that just looks good in a notebook.
+
+Outside formal projects, I run NLP pipelines on 200k+ samples for fun, tune gradient-boosted models past midnight, and occasionally argue with my own SQL queries.
 
 ---
 
-## `$ python run_pipeline.py --show-projects`
+## Current Focus
+
+- 🔬 Deepening my machine learning fundamentals — ensembles, feature engineering, and model evaluation done rigorously, not just "fit and forget."
+- 📊 Getting sharper with experimentation: hypothesis testing and A/B testing as decision tools, not just statistics homework.
+- 🧠 Exploring LLMs, RAG pipelines, and prompt engineering as a practical extension of the data toolkit.
+- 🏗️ Building end-to-end projects (data → model → dashboard) rather than isolated scripts.
+
+---
+
+## Technical Philosophy
+
+> Data work that doesn't change a decision is just an exercise. I build for the decision, then make the technical work rigorous enough to deserve it.
+
+---
+
+## Experience
+
+### Data Analytics Intern — Naadul Milk
+*May 2025 – July 2025 · Prayagraj*
+
+Naadul Milk is a dairy business juggling both B2B and B2C order patterns — which made it a genuinely interesting place to do analytics, not just reporting.
+
+- **Forecasting that stuck:** Proposed a demand-forecasting methodology grounded in historical seasonality analysis. It wasn't just accepted — it was formally adopted **company-wide** for B2B order planning.
+- **Dashboards executives actually opened:** Designed and delivered interactive **Power BI** dashboards tracking SKU-level profitability, gross margin trends, and B2B vs. B2C sales patterns, built for executive decision-making rather than vanity metrics.
+- **Translating ambiguity into action:** Took requirements from **5+ stakeholders** with different (sometimes conflicting) priorities and distilled them into **3 actionable analytics strategies** that improved pricing and product-mix decisions.
+
+**Tools:** Power BI · Excel · SQL · Seasonality & Trend Analysis
+
+---
+
+## Featured Projects
+
+### 🥇 BDM Capstone — B2B & B2C Dairy Analytics
+**IIT Madras Best Capstone Project Award**
+
+The flagship project of my data science coursework — an end-to-end machine learning pipeline solving a real business problem for a dairy operation balancing wholesale and retail demand.
+
+| | |
+|---|---|
+| **Problem** | A dairy business needed better visibility into demand patterns and gross margins across mixed B2B/B2C sales to reduce stockouts and improve inventory decisions. |
+| **Approach** | Built an ML pipeline on **848+ real transactional records**, engineering features around seasonal demand cycles, SKU mix, and B2B/B2C segmentation using **Pandas** and **Scikit-learn**. |
+| **Impact** | **+18%** forecasting accuracy → **−12%** stockouts and **+18%** gross margin visibility. |
+| **Tech** | Python · SQL · Pandas · Scikit-learn · Machine Learning |
+| **Recognition** | Awarded **Best Capstone Project** by IIT Madras for measurable business impact, technical rigor, and innovation. |
+
+---
+
+### 🧪 Multi-Class NLP Comment Classification Pipeline
+*Feb 2026 – April 2026*
+
+A production-style NLP system built to classify text comments across multiple categories at scale.
+
+| | |
+|---|---|
+| **Problem** | Classifying free-text comments into multiple categories reliably enough to be useful at scale, not just accurate on a clean test set. |
+| **Approach** | Built an end-to-end pipeline on **198k training samples**, using **TF-IDF** feature engineering over sparse textual representations. |
+| **Models** | Logistic Regression, LinearSVC, Random Forest, Stacking Ensembles, and **LightGBM**, tuned with **RandomizedSearchCV**. |
+| **Tech** | Python · Scikit-learn · LightGBM · NLP · TF-IDF |
+
+---
+
+### 🎓 Quiz Master App — V1
+*Jan 2025 – March 2025*
+
+A secure, multi-user quiz platform built from the ground up with role-based access and real admin tooling.
+
+| | |
+|---|---|
+| **Problem** | Needed a quiz platform that supported multiple user roles with real administrative visibility into performance — not just a CRUD app. |
+| **Approach** | Built secure multi-user authentication with role-based access control and a real-time admin dashboard. |
+| **Impact** | Automated **Matplotlib** dashboards cut admin reporting effort by **40%**; optimized **Flask-SQLAlchemy** queries cut data retrieval time by **60%**. |
+| **Tech** | Flask · SQLite3 · SQLAlchemy · Matplotlib |
+
+---
+
+## Skills Matrix
+
+| Category | Skills |
+|---|---|
+| **Languages** | Python, SQL, Java, C |
+| **Data Analysis & ML** | EDA, Pandas, NumPy, Scikit-learn, Linear/Logistic Regression, Classification, Clustering, Feature Engineering |
+| **Statistics & Experimentation** | Descriptive & Inferential Statistics, Hypothesis Testing (t-test, z-test, chi-square), A/B Testing, Statistical Significance |
+| **Time Series & Forecasting** | Time Series Analysis, Trend & Seasonality, Moving Averages, Demand Forecasting |
+| **Databases** | PostgreSQL, MySQL, SQLite3 |
+| **Visualization & BI** | Power BI, Matplotlib, Seaborn, Excel (Pivot Tables, VLOOKUP, Dashboards) |
+| **Backend & APIs** | Flask, FastAPI, REST APIs |
+| **AI & Automation** | LLMs, RAG Pipelines, Prompt Engineering, OpenCV |
 
 <details>
-<summary><b>🏆 BDM Capstone — B2B & B2C Dairy Analytics</b> &nbsp;<code>Best Project · IIT Madras</code></summary>
-
+<summary><b>Badge view</b></summary>
 <br>
 
-**Stack:** Python · SQL · Scikit-learn · Pandas · Feature Engineering
-
-```
-INPUT   → 848+ real transactional records (B2B + B2C dairy sales)
-PROCESS → SKU segmentation · seasonal demand cycles · ML pipeline
-OUTPUT  → ↑18% forecast accuracy · ↓12% stockouts · ↑18% margin visibility
-AWARD   → Best Capstone Project — IIT Madras
-```
-
-> The model I built here was adopted by Naadul Milk's entire B2B order planning team — not just submitted as a project.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </details>
 
-<details>
-<summary><b>🧠 Multi-Class NLP Comment Classification</b> &nbsp;<code>198k samples</code></summary>
+---
 
-<br>
+## Education
 
-**Stack:** Python · Scikit-learn · LightGBM · TF-IDF · RandomizedSearchCV
-
-```
-INPUT   → 198,000 training samples (sparse text)
-PROCESS → TF-IDF features → LR / LinearSVC / RF / Stacking / LightGBM
-TUNED   → RandomizedSearchCV across all model families
-OUTPUT  → end-to-end multi-class classification pipeline
-```
-
-</details>
-
-<details>
-<summary><b>📱 Quiz Master App</b> &nbsp;<code>Full-stack · Flask</code></summary>
-
-<br>
-
-**Stack:** Flask · SQLite3 · SQLAlchemy · Matplotlib
-
-```
-FEATURES → multi-user auth · role-based access · real-time admin dashboard
-RESULT   → ↑40% admin reporting efficiency · ↓60% query time
-```
-
-</details>
+| Institution | Program | Duration |
+|---|---|---|
+| Madan Mohan Malaviya University of Technology | B.Tech, Mechanical Engineering | Sep 2023 – May 2027 |
+| Indian Institute of Technology, Madras | B.S., Data Science (Online) | June 2023 – May 2027 |
 
 ---
 
-## `$ ./skills --verbose`
+## Achievements & Certifications
 
-```python
-LANGUAGES    = ["Python", "SQL", "Java", "C"]
-
-ML_STACK     = {
-    "models"    : ["Linear/Logistic Regression", "SVM", "Random Forest",
-                   "Stacking Ensembles", "LightGBM", "KMeans"],
-    "libraries" : ["Scikit-learn", "Pandas", "NumPy"],
-    "focus"     : ["Feature Engineering", "Demand Forecasting",
-                   "NLP Pipelines", "Multi-class Classification"]
-}
-
-STATS        = ["Hypothesis Testing (t / z / chi-square)",
-                "A/B Testing", "Statistical Significance",
-                "Descriptive & Inferential Statistics"]
-
-TIME_SERIES  = ["Trend & Seasonality", "Moving Averages", "Demand Forecasting"]
-
-DATABASES    = ["PostgreSQL", "MySQL", "SQLite3"]
-
-BACKEND      = ["Flask", "FastAPI", "REST APIs"]
-
-VISUALIZATION= ["Power BI", "Matplotlib", "Seaborn", "Excel (Pivot, VLOOKUP)"]
-
-AI_TOOLS     = ["RAG Pipelines", "LLMs", "Prompt Engineering",
-                "Computer Vision (OpenCV)"]
-```
+- 🏆 **Best Capstone Project Award — IIT Madras**, for the B2B/B2C dairy analytics capstone
+- 🎓 **Diploma in Data Science — IIT Madras**, covering Machine Learning, Business Analytics, Business Data Management, and Tools in Data Science
+- 📜 **Foundation Level Certificate, BS Data Science — IIT Madras**, covering Python, Statistics, and Data Management
+- 💼 **Deloitte Data Analytics Virtual Internship**, simulating a real-world analytics workflow across ETL, data cleaning, business reporting, and stakeholder presentation
 
 ---
 
-## `$ cat achievements.log`
+## Leadership
 
-```
-[2025-06]  🏆  Best Capstone Project — IIT Madras
-              → 848 records · ML pipeline · real business impact
+**Executive Member, E-Cell MMMUT**
+Coordinated entrepreneurship-focused events and workshops, increasing student participation by **25%**.
 
-[2025-06]  📊  Demand forecast model formally adopted company-wide
-              → Naadul Milk B2B planning · first real production model
-
-[2025-06]  🎓  IIT Madras Diploma in Data Science
-              → ML · Business Analytics · BDM · Tools in Data Science
-
-[2024]     💼  Deloitte Data Analytics Virtual Internship
-              → ETL · data cleaning · stakeholder presentations
-
-[2024]     🤝  Executive Member — E-Cell MMMUT
-              → entrepreneurship events · +25% student participation
-
-[2024]     🔧  Executive Member — FLUX MMMUT
-              → hackathons & innovation programs · 400+ students engaged
-```
+**Executive Member, FLUX MMMUT**
+Organized hackathons, seminars, and innovation programs engaging **400+ students**, boosting participation by **30%**.
 
 ---
 
-## `$ git log --oneline --graph` (stats)
+## What I Bring to a Team
+
+- **Stakeholder translation.** I've turned conflicting input from 5+ stakeholders into a small set of decisions people could actually act on — that's a harder skill than running the model itself.
+- **Bias toward shipped impact.** My capstone wasn't graded on novelty; it was recognized because it moved real numbers (stockouts, margin visibility). I optimize for that outcome by default.
+- **Comfort across the full stack of a data problem** — from SQL and feature engineering, to model tuning, to a dashboard a non-technical exec will actually read.
+- **An engineering foundation underneath the data science.** A mechanical engineering degree running in parallel means I think about systems, constraints, and failure modes, not just dataframes.
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanIITMds&show_icons=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=555&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanIITMds&layout=compact&theme=transparent&hide_border=true&title_color=00B4D8&text_color=555&langs_count=6" />
-
-<img src="https://streak-stats.demolab.com?user=AmanIITMds&theme=transparent&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=555&dates=aaa" />
+<!-- Replace USERNAME with your GitHub username to activate these -->
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## `$ cat roadmap.md`
+## Open To
 
-```
-2026 Q3 ──┬── Deploy FastAPI ML microservice (end-to-end, containerised)
-           ├── Complete advanced stats & experimentation module (IITM)
-           └── Contribute to an open-source data project
-
-2026 Q4 ──┬── LLM + RAG application in production
-           └── Land high-impact data / ML role
-
-2027    ──── Graduate · B.S. Data Science (IIT Madras) + B.Tech (MMMUT)
-```
+- 🔹 Data Analyst / Data Science internships and roles
+- 🔹 Machine Learning Engineering opportunities
+- 🔹 Analytics-focused collaborations
+- 🔹 Open-source contributions in Python / ML tooling
 
 ---
 
-## `$ tail -1 /var/log/activity.log`
+## Connect With Me
 
-```
-🐍  Contribution map — every green square is a commit shipped.
-```
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/AmanIITMds/AmanIITMds/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution Snake](https://raw.githubusercontent.com/AmanIITMds/AmanIITMds/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
----
-
-## `$ ./contact --open`
-
-```
-I build data pipelines that ship, not just notebooks that sit in folders.
-If you're working on something interesting in ML, analytics, or data products
-— let's talk.
-```
+📧 **Email:** your-email@example.com
+🔗 **LinkedIn:** your-linkedin-url
+💻 **GitHub:** your-github-url
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrrawat)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+*Thanks for reading this far — if any of the projects above caught your eye, the repos are right below.*
 
 </div>
-
----
-
-<div align="center">
-<sub><code>aman@github:~$ █</code> &nbsp;·&nbsp; last updated June 2026</sub>
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm passionate about building **data products that generate real business value** — demand forecasting, profitability analytics, ML pipelines, and BI dashboards.
-
-Open to collaborating on **Data Science, ML, Analytics, and AI-powered backend projects**.
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankrrawat)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanIITMds)
-
-</div>
-
----
-
-<!-- Footer wave -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364)](https://github.com/AmanIITMds)
