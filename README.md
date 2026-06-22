@@ -1,187 +1,224 @@
+<!-- ████████████████████████████████████████████████████████████████████
+     AMAN KUMAR RAWAT — GitHub Profile README
+     Design: Terminal / Data Pipeline aesthetic
+     Unique angle: His profile reads like a live analytics session,
+     not a template portfolio.
+     ███████████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Aman%20Kumar%20Rawat&fontSize=48&fontAlign=50&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20IIT%20Madras%20%2B%20MMMUT&descSize=18&descAlign=50&descAlignY=58&fontColor=ffffff&animation=fadeIn)](https://github.com/AmanIITMds)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  $ whoami                                                            ║
+║  > Aman Kumar Rawat                                                  ║
+║  > Data Scientist in training · IIT Madras × MMMUT                  ║
+║  > Turning raw numbers into decisions that actually ship             ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;ML+pipelines+%7C+Forecasting+%7C+NLP+%7C+Power+BI;IIT+Madras+BS+Data+Science+%7C+MMMUT+B.Tech;Best+Capstone+Project+%E2%80%94+IIT+Madras+%F0%9F%8F%86)](https://github.com/AmanIITMds)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=700&color=00B4D8&center=true&vCenter=true&width=700&lines=Running+demand_forecast.py+...+%E2%9C%94+18%25+accuracy+gain;Loading+nlp_pipeline.py+...+%E2%9C%94+198k+samples+processed;Deploying+quiz_master+app+...+%E2%9C%94+60%25+faster+queries;status%3A+open+to+data+%2F+ML+roles+%F0%9F%9F%A2)](https://github.com/AmanIITMds)
 
-<!-- Badges row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Kumar%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankrrawat)
-[![GitHub](https://img.shields.io/badge/GitHub-AmanIITMds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanIITMds)
-[![Profile Views](https://komarev.com/ghpvc/?username=AmanIITMds&label=Profile%20Views&color=00d4ff&style=for-the-badge)](https://github.com/AmanIITMds)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Data%20Analyst%20%7C%20ML%20Engineer%20Roles-success?style=for-the-badge)](https://www.linkedin.com/in/amankrrawat)
+[![LinkedIn](https://img.shields.io/badge/-amankrrawat-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrrawat)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/AmanIITMds?label=follow&style=flat-square&color=00B4D8)](https://github.com/AmanIITMds)&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=AmanIITMds&style=flat-square&color=00B4D8&label=profile+views)](https://github.com/AmanIITMds)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `$ cat about.json`
 
-```python
-aman = {
-    "name"       : "Aman Kumar Rawat",
-    "location"   : "Gorakhpur, Uttar Pradesh 🇮🇳",
-    "education"  : [
-        "B.S. Data Science — IIT Madras (2023–2027)",
-        "B.Tech Mechanical Engineering — MMMUT (2023–2027)"
-    ],
-    "experience" : "Data Analytics Intern @ Naadul Milk (Demand Forecasting + Power BI)",
-    "strengths"  : ["ML Pipelines", "Time Series Forecasting", "NLP", "Business Analytics", "Data Storytelling"],
-    "current_focus": [
-        "Advanced ML — Ensembles, LightGBM, Stacking",
-        "End-to-end data products with Flask + FastAPI",
-        "Statistical experimentation & A/B testing"
-    ],
-    "goal"       : "Build data systems that drive measurable business outcomes 🚀"
+```json
+{
+  "name": "Aman Kumar Rawat",
+  "location": "Gorakhpur, UP, India",
+  "education": {
+    "degree_1": "B.S. Data Science — IIT Madras (2023–2027)",
+    "degree_2": "B.Tech Mechanical Engineering — MMMUT (2023–2027)",
+    "note": "dual-degree path, by design"
+  },
+  "currently_working_on": [
+    "advanced ensemble methods & LightGBM tuning",
+    "FastAPI-powered data products",
+    "statistical experimentation & A/B testing"
+  ],
+  "looking_for": "data analyst / ML engineer internship or full-time",
+  "superpower": "I build things that create measurable business outcomes, not just notebooks"
 }
 ```
 
 ---
 
-## 🏆 Highlight Reel
+## `$ python run_pipeline.py --show-projects`
 
-| 🎖️ Achievement | 📌 Details |
-|---|---|
-| 🥇 **Best Capstone Project — IIT Madras** | Awarded for B2B/B2C dairy analytics with real business impact across 848+ transactions |
-| 📊 **18% Forecasting Accuracy Improvement** | Led to 12% fewer stockouts & 18% better gross margin visibility |
-| 💼 **Demand Forecasting Adopted Company-Wide** | Seasonality model formally implemented across all B2B order planning at Naadul Milk |
-| 🏛️ **IIT Madras Diploma in Data Science** | Covering ML, Business Analytics, BDM, and Tools in Data Science |
-| 🤝 **E-Cell & FLUX MMMUT** | Grew event participation by 25–30%, engaging 400+ students |
+<details>
+<summary><b>🏆 BDM Capstone — B2B & B2C Dairy Analytics</b> &nbsp;<code>Best Project · IIT Madras</code></summary>
 
----
+<br>
 
-## 🚀 Featured Projects
-
-### 🥛 [BDM Capstone — B2B & B2C Dairy Analytics](https://github.com/AmanIITMds/BDM-Project)
-> **Best Capstone Project | IIT Madras** · Python · SQL · Scikit-learn · Pandas
-
-- Built an end-to-end ML pipeline on **848+ real transactional records**
-- Feature engineering across seasonal demand cycles, SKU mix, and B2B/B2C segmentation
-- Results: **↑18% forecast accuracy**, **↓12% stockouts**, **↑18% gross margin visibility**
-
----
-
-### 🧠 [NLP Comment Classification Pipeline](https://github.com/AmanIITMds)
-> Python · Scikit-learn · LightGBM · TF-IDF · NLP
-
-- End-to-end classification pipeline on **198,000 training samples**
-- Implemented and tuned: Logistic Regression, LinearSVC, RandomForest, Stacking Ensembles, LightGBM
-- Hyperparameter optimization via `RandomizedSearchCV` on sparse TF-IDF representations
-
----
-
-### 📱 [Quiz Master App](https://github.com/AmanIITMds/quizmaster_23f2001035)
-> Flask · SQLite3 · SQLAlchemy · Matplotlib
-
-- Secure multi-user quiz platform with role-based authentication + real-time admin dashboard
-- **↓60% data retrieval time** via optimized Flask-SQLAlchemy queries
-- **↑40% admin reporting efficiency** via automated Matplotlib dashboards
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Core
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-### ML / Data Science
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io)
-
-### Visualization & BI
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-### Databases & Backend
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-
-### AI & Automation
-[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-
----
-
-## 📊 ML Skills Breakdown
-
-| Domain | Skills |
-|---|---|
-| **Machine Learning** | Linear & Logistic Regression, Classification, Clustering, Ensembles, LightGBM |
-| **NLP** | TF-IDF, Sparse Representations, Multi-class Classification, Pipeline Design |
-| **Time Series** | Trend & Seasonality, Moving Averages, Demand Forecasting, Seasonality Analysis |
-| **Statistics** | Descriptive & Inferential Stats, Hypothesis Testing (t-test, z-test, chi-square), A/B Testing |
-| **Feature Engineering** | SKU segmentation, B2B/B2C split, Seasonal demand cycles |
-| **AI/Automation** | RAG Pipelines, LLMs, Prompt Engineering, Computer Vision (OpenCV) |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanIITMds&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/AmanIITMds)
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmanIITMds&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/AmanIITMds)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanIITMds&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/AmanIITMds)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmanIITMds&theme=tokyonight&utcOffset=5.5)](https://github.com/AmanIITMds)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmanIITMds&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/AmanIITMds)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/AmanIITMds/AmanIITMds/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚠️ **Note:** To enable the snake animation, create `.github/workflows/snake.yml` — see setup instructions below.
-
----
-
-## 🎯 2026 Roadmap
+**Stack:** Python · SQL · Scikit-learn · Pandas · Feature Engineering
 
 ```
-Advanced ML ──► End-to-end Data Products ──► LLM & RAG Apps ──► High-Impact Analytics Role
-     │                    │                         │
-  Ensembles            Flask/FastAPI          Prompt Engineering
-  LightGBM           REST APIs + SQL          Vector Databases
-  A/B Testing        Docker basics            Agentic Workflows
+INPUT   → 848+ real transactional records (B2B + B2C dairy sales)
+PROCESS → SKU segmentation · seasonal demand cycles · ML pipeline
+OUTPUT  → ↑18% forecast accuracy · ↓12% stockouts · ↑18% margin visibility
+AWARD   → Best Capstone Project — IIT Madras
+```
+
+> The model I built here was adopted by Naadul Milk's entire B2B order planning team — not just submitted as a project.
+
+</details>
+
+<details>
+<summary><b>🧠 Multi-Class NLP Comment Classification</b> &nbsp;<code>198k samples</code></summary>
+
+<br>
+
+**Stack:** Python · Scikit-learn · LightGBM · TF-IDF · RandomizedSearchCV
+
+```
+INPUT   → 198,000 training samples (sparse text)
+PROCESS → TF-IDF features → LR / LinearSVC / RF / Stacking / LightGBM
+TUNED   → RandomizedSearchCV across all model families
+OUTPUT  → end-to-end multi-class classification pipeline
+```
+
+</details>
+
+<details>
+<summary><b>📱 Quiz Master App</b> &nbsp;<code>Full-stack · Flask</code></summary>
+
+<br>
+
+**Stack:** Flask · SQLite3 · SQLAlchemy · Matplotlib
+
+```
+FEATURES → multi-user auth · role-based access · real-time admin dashboard
+RESULT   → ↑40% admin reporting efficiency · ↓60% query time
+```
+
+</details>
+
+---
+
+## `$ ./skills --verbose`
+
+```python
+LANGUAGES    = ["Python", "SQL", "Java", "C"]
+
+ML_STACK     = {
+    "models"    : ["Linear/Logistic Regression", "SVM", "Random Forest",
+                   "Stacking Ensembles", "LightGBM", "KMeans"],
+    "libraries" : ["Scikit-learn", "Pandas", "NumPy"],
+    "focus"     : ["Feature Engineering", "Demand Forecasting",
+                   "NLP Pipelines", "Multi-class Classification"]
+}
+
+STATS        = ["Hypothesis Testing (t / z / chi-square)",
+                "A/B Testing", "Statistical Significance",
+                "Descriptive & Inferential Statistics"]
+
+TIME_SERIES  = ["Trend & Seasonality", "Moving Averages", "Demand Forecasting"]
+
+DATABASES    = ["PostgreSQL", "MySQL", "SQLite3"]
+
+BACKEND      = ["Flask", "FastAPI", "REST APIs"]
+
+VISUALIZATION= ["Power BI", "Matplotlib", "Seaborn", "Excel (Pivot, VLOOKUP)"]
+
+AI_TOOLS     = ["RAG Pipelines", "LLMs", "Prompt Engineering",
+                "Computer Vision (OpenCV)"]
 ```
 
 ---
 
-## 📜 Certifications
+## `$ cat achievements.log`
 
-- 🎓 **Diploma in Data Science** — IIT Madras *(ML, Business Analytics, BDM, Tools in DS)*
-- 🎓 **Foundation Level Certificate** — IIT Madras BS Data Science *(Python, Statistics, Data Management)*
-- 🏆 **Best Capstone Project Award** — IIT Madras
-- 💼 **Deloitte Data Analytics Virtual Internship** *(ETL, Data Cleaning, Business Reporting)*
+```
+[2025-06]  🏆  Best Capstone Project — IIT Madras
+              → 848 records · ML pipeline · real business impact
+
+[2025-06]  📊  Demand forecast model formally adopted company-wide
+              → Naadul Milk B2B planning · first real production model
+
+[2025-06]  🎓  IIT Madras Diploma in Data Science
+              → ML · Business Analytics · BDM · Tools in Data Science
+
+[2024]     💼  Deloitte Data Analytics Virtual Internship
+              → ETL · data cleaning · stakeholder presentations
+
+[2024]     🤝  Executive Member — E-Cell MMMUT
+              → entrepreneurship events · +25% student participation
+
+[2024]     🔧  Executive Member — FLUX MMMUT
+              → hackathons & innovation programs · 400+ students engaged
+```
 
 ---
+
+## `$ git log --oneline --graph` (stats)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanIITMds&show_icons=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=555&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanIITMds&layout=compact&theme=transparent&hide_border=true&title_color=00B4D8&text_color=555&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=AmanIITMds&theme=transparent&hide_border=true&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=555&dates=aaa" />
+
+</div>
+
+---
+
+## `$ cat roadmap.md`
+
+```
+2026 Q3 ──┬── Deploy FastAPI ML microservice (end-to-end, containerised)
+           ├── Complete advanced stats & experimentation module (IITM)
+           └── Contribute to an open-source data project
+
+2026 Q4 ──┬── LLM + RAG application in production
+           └── Land high-impact data / ML role
+
+2027    ──── Graduate · B.S. Data Science (IIT Madras) + B.Tech (MMMUT)
+```
+
+---
+
+## `$ tail -1 /var/log/activity.log`
+
+```
+🐍  Contribution map — every green square is a commit shipped.
+```
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/AmanIITMds/AmanIITMds/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake](https://raw.githubusercontent.com/AmanIITMds/AmanIITMds/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## `$ ./contact --open`
+
+```
+I build data pipelines that ship, not just notebooks that sit in folders.
+If you're working on something interesting in ML, analytics, or data products
+— let's talk.
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amankrrawat)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub><code>aman@github:~$ █</code> &nbsp;·&nbsp; last updated June 2026</sub>
+</div>
 
 ## 🤝 Let's Connect
 
